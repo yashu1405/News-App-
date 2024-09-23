@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Chappell Roan: Good Luck, Babe! singer calls out being 'harassed'",
+    "description": "The Good Luck, Babe! singer shares two TikToks saying what she's experienced isn't \"normal\".",
+    "url": "https://www.bbc.co.uk/news/articles/cd6yg942lzlo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14f0/live/3fb8f830-5ed0-11ef-9b96-11c19c5d4276.jpg",
+    "publishedAt": "2024-08-20T11:52:12.2182423Z",
+    "content": "Chappell is not the only famous name to warn fans about overstepping the line, or to set boundaries for their fans based on difficult experiences.\r\nIn 2022, actress and singer Keke Palmer posted on s… [+939 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Bayesian yacht sinking: Who is missing and who survived?",
+    "description": "Six people are still missing after the British-flagged superyacht Bayesian sank during freak weather.",
+    "url": "https://www.bbc.co.uk/news/articles/cgky36j1d3go",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ba6f/live/ef479680-5ec1-11ef-b970-9f202720b57a.jpg",
+    "publishedAt": "2024-08-20T11:22:15.8435965Z",
+    "content": "A British mother, named locally as Charlotte Golunski, was travelling on the yacht with her partner and baby girl. All three have been rescued from the boat.\r\nIn an interview, she described holding h… [+1006 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hillary Clinton says it's time Kamala Harris broke 'glass ceiling'",
+    "description": "Women in politics say much has changed since Ms Clinton ran for office in 2016 - but is it enough?",
+    "url": "https://www.bbc.co.uk/news/articles/ce317d27l7zo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d747/live/dd72f760-5eb7-11ef-a9dd-75dfbe20f777.jpg",
+    "publishedAt": "2024-08-20T11:07:18.5621252Z",
+    "content": "During her run for president in 2016, Mrs Clinton faced a barrage of criticisms over her appearance, her clothing and even the sound of her voice.\r\nShe came into the race with more baggage than the a… [+1264 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mike Lynch co-defendant Stephen Chamberlain dies after car crash in Cambridgeshire",
+    "description": "Stephen Chamberlain's lawyer says he died while out running.",
+    "url": "https://www.bbc.co.uk/news/articles/c74jzd22dkno",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4ba0/live/2b82a5e0-5ec7-11ef-a465-95f7a33faf0e.jpg",
+    "publishedAt": "2024-08-20T07:52:13.5622971Z",
+    "content": "Gary Lincenberg, Mr Chamberlains lawyer, described his client as a \"courageous man\".\r\n\"Our dear client and friend Steve Chamberlain was fatally struck by a car on Saturday while out running,\" he said… [+437 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Six hostages' bodies retrieved, Israel's military says",
+    "description": "The bodies have been recovered from the Khan Younis area, Israel's military says.",
+    "url": "https://www.bbc.co.uk/news/articles/c23lgy1k22zo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d8a6/live/70ed6150-5ec8-11ef-8d1c-5db809ccb2ad.jpg",
+    "publishedAt": "2024-08-20T07:52:12.3438488Z",
+    "content": "The statement went onto to say that the return of the remaining 109 hostages from Gaza \"can only be achieved through a negotiated deal\" and called on the Israeli government to \"do everything in its p… [+706 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Li Rui: US trial begins in battle for Mao secretary's diaries",
+    "description": "Stanford University is fighting to keep the diaries, in a case framed as a battle against China's censorship.",
+    "url": "https://www.bbc.co.uk/news/articles/c5yp70j94e8o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/417e/live/08d8bef0-5ea2-11ef-86bb-3f7fcb5f20c6.jpg",
+    "publishedAt": "2024-08-20T06:22:10.7017484Z",
+    "content": "As a young outspoken cadre he caught the eye of Mao who made him one of his personal secretaries in the mid-1950s. But the position was shortlived.\r\nWhen Li criticised Mao's views at a political meet… [+1598 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Joe Biden eyes legacy in emotional farewell at Democratic convention",
+    "description": "The president lauded Kamala Harris and gave a forceful defence of his own achievements in a speech that he never wanted to give.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2g4dy4zr0o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ed10/live/395d8850-5eb4-11ef-b970-9f202720b57a.jpg",
+    "publishedAt": "2024-08-20T06:07:10.9058496Z",
+    "content": "The reception Mr Biden received from the packed Democratic convention hall was equally electric. The Democrats here in Chicago have been jubilant all day. But the cheers for the president could be as… [+1648 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Flights cancelled in Japan after scissors go missing",
+    "description": "Thirty six flights were cancelled and 201 delayed on the weekend at one of Japan's busiest airports.",
+    "url": "https://www.bbc.co.uk/news/articles/cd9d7gg2599o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c066/live/67251b60-5ea3-11ef-a1e5-dfb540dfa36e.jpg",
+    "publishedAt": "2024-08-20T04:22:17.0411178Z",
+    "content": "Although the scissors werent located on Saturday, the day they went missing, security checks and flights eventually resumed that day.\r\nHokkaido Airport, the operator of New Chitose airport, announced… [+1699 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kevin Lik: Teenage prisoner swapped by Russia felt like ‘hostage’",
+    "description": "The 19-year-old describes his arrest, surviving Russian jail and being part of the recent prisoner swap.",
+    "url": "https://www.bbc.co.uk/news/articles/c7v5rn8jr82o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a63b/live/f6dedee0-5b05-11ef-997c-711b7066309d.jpg",
+    "publishedAt": "2024-08-19T23:52:15.358925Z",
+    "content": "Suddenly, as he was leaving the bath house on Tuesday 23 July, he was approached by a senior prison officer and told he had 20 minutes to \"urgently write a petition\" for a presidential pardon, which … [+1458 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump uses AI photos to falsely imply Taylor Swift endorsed him",
+    "description": "Taylor Swift has yet to weigh in on the 2024 election, but endorsed the Biden-Harris ticket in 2020.",
+    "url": "https://www.bbc.co.uk/news/articles/c5y87l6rx5wo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2e5a/live/f29d3bb0-5e75-11ef-a261-397ae4e9b400.jpg",
+    "publishedAt": "2024-08-19T22:37:18.1050239Z",
+    "content": "One of the photos shared by Trump depicted Swift fans wearing t-shirts that read: \"Swifties for Trump\". \r\nThe post appeared to have a label of \"satire\" with a headline that read: \"Swifties turning to… [+1042 chars]"
+    }
+    ]
+    }
